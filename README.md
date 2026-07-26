@@ -75,7 +75,7 @@ This HR Analytics Dashboard was developed using Microsoft Power BI to analyze em
 
 (Add your dashboard screenshot here)
 
-![Dashboard](Dashboard)
+![Dashboard](Dashboard.png)
 
 ---
 
