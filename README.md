@@ -1,4 +1,4 @@
-# HR Analytics Dashboard (Power BI)
+# 📊 HR Analytics Dashboard (Power BI)
 
 ## Project Overview
 
@@ -49,12 +49,19 @@ This HR Analytics Dashboard was developed using Microsoft Power BI to analyze em
 
 ## Key Insights
 
-- Total Employees: 1470
-- Active Employees: 1233
-- Attrition Count: 237
-- Attrition Rate: 16.12%
-- Average Age: 37 Years
-- Average Monthly Salary: 6503
+- The organization has **1,470 employees**, out of which **237 employees have left**, resulting in an **attrition rate of 16.12%**.
+
+- The average employee age is **37 years**, indicating a predominantly mid-career workforce.
+
+- Employees with **Life Sciences** education recorded the highest number of attrition cases compared to other education fields.
+
+- **Sales Representatives** experienced the highest attrition rate (39.76%), followed by Laboratory Technicians and Human Resources.
+
+- The **Research & Development (R&D)** department contributed the highest share of employee attrition (56.12%), followed by Sales.
+
+- Employees aged **25–34 years** represent the largest workforce segment and also show comparatively higher attrition.
+
+- Job satisfaction varies across different job roles, highlighting opportunities to improve employee engagement and retention.
 
 ---
 
