@@ -69,7 +69,6 @@ This HR Analytics Dashboard was developed using Microsoft Power BI to analyze em
 
 - Data Cleaning
 - Power Query
-- Data Modeling
 - DAX Measures
 - KPI Design
 - Interactive Slicers
